@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm0ham3dx%2Ffoundry-learningz&count_bg=%233B3C3B&title_bg=%23000000&icon=wheniwork.svg&icon_color=%23FFFC00&title=hits&edge_flat=false"/>
+</p>
 
 <p align="center">
 <a href="https://getfoundry.sh" target="_blank">
@@ -13,7 +16,7 @@
 - [🍌 Repo Description](#-repo-description)
 - [🍌 URL's Foundry Official Repo](#-urls-foundry-official-repo)
 - [🍌 Repo Purpose](#-repo-purpose)
-- [🍌 Issue Description](#-issue-description)
+- [🍌 Repo Description](#-repo-description-1)
 - [🍌 Awesome Foundry](#-awesome-foundry)
 - [🍌 URLS](#-urls)
 - [🍌 Disclaimer](#-disclaimer)
@@ -50,10 +53,10 @@ flowchart TD
 List of my favourite learnign resources for foundry
 
 
-# 🍌 Issue Description 
+# 🍌 Repo Description 
 
-1. This issue is being made after observing the need to consolidate some learning resources for [Foundry](https://github.com/foundry-rs/foundry) - Which is an Ethereum Development Toolkit written in Rust. Which makes it very fast for compiling, testing & decoding. 
-4. This issue will be list of strictly video learning resources which have been extracted from a variety of sources 
+1. This Repo is being made after observing the need to consolidate some learning resources for [Foundry](https://github.com/foundry-rs/foundry) - Which is an Ethereum Development Toolkit written in Rust. Which makes it very fast for compiling, testing & decoding. 
+4. This Repo will be list of strictly video learning resources which have been extracted from a variety of sources 
 5. The following urls are not exhaustive in anyway, note there are new resources popping up all the time
 6. It is highly recommended to follow [gakonst](https://twitter.com/gakonst) who is the founder of `Foundry` , this toolset is being updated constantly. 
 
@@ -71,6 +74,7 @@ List of my favourite learnign resources for foundry
 8. [Youtube - Secureum - Secureum TrustX — Mainnet Room, 22 April - Introduction to Foundry by https://twitter.com/gakonst](https://youtu.be/q4mlkHGFO_w?t=6156)
 9. [Youtube - James Bachini- Foundry Tutorial | Debug & Deploy Solidity Smart Contracts](https://youtu.be/VhaP9kYvlOA)
 10. UPDATE - [Youtube - Nader Dabit - Smart Contract Development with Foundry](https://youtu.be/uelA2U9TbgM)
+11. [Mirror Blog - How to PoC your bug leads for Immunefi using Foundry](https://mirror.xyz/cergyk.eth/ogQVyd-lL6aDj0tPLsMiLOyGX-w1-nG7EBeMmekaUy8)
 
 # 🍌 Disclaimer
 
