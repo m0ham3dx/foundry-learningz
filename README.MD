@@ -1,5 +1,18 @@
 
-# Repo Description 
+----
+# TOC 
+
+- [TOC](#toc)
+- [Repo Description](#repo-description)
+- [🍌 URL's Foundry Official Repo](#-urls-foundry-official-repo)
+- [🍌 Repo Purpose](#-repo-purpose)
+- [🍌 Issue Description](#-issue-description)
+- [🍌 Awesome Foundry](#-awesome-foundry)
+- [🍌 URLS](#-urls)
+- [🍌 Disclaimer](#-disclaimer)
+
+----
+# 🍌 Repo Description 
 
 Running list of resources for learning foundry 
 
@@ -31,7 +44,7 @@ flowchart TD
 1. [Official Repo](https://github.com/foundry-rs)
 2. [Official Manual](https://github.com/foundry-rs/book) - [Readable](https://book.getfoundry.sh) - It is highly recommended to go through the manual before trying to learn it from external sources. In my experience, this will enable you to remember the official reference resources
 
-# 🍌 Issue Purpose
+# 🍌 Repo Purpose 
 
 I am of the opinion that eventually SkidsDAO should have a great wiki and/or a [Rust mdBook](https://rust-lang.github.io/mdBook/) of learning resources in general. FOSS of course. Eventually, as I progress with acquiring evidence of actual ability I may look into this area under this banner or something else. This matter is under constant investigation.
 
