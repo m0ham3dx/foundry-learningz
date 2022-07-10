@@ -20,6 +20,7 @@
 - [🍌 Awesome Foundry](#-awesome-foundry)
 - [🍌 URLS](#-urls)
 - [🍌 Disclaimer](#-disclaimer)
+- [🍌 Contributions](#-contributions)
 
 ----
 # 🍌 Repo Description 
@@ -79,3 +80,7 @@ List of my favourite learnign resources for foundry
 # 🍌 Disclaimer
 
 SINCE NONE OF THE ABOVE MENTIONED RESOURCES ARE OFFICIALLY FROM THE MAKERS OF THIS TOOL, THEY ARE SUBJECT TO ERRORS, THE VIEWER IS ADVISED TO DYOR 
+
+# 🍌 Contributions
+
+For contributing please open an issue. I will add the information `@`'ing you 
