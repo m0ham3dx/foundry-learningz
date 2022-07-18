@@ -10,19 +10,20 @@
 </p>
 
 ----
-# TOC 
 
-- [TOC](#toc)
-- [🍌 Repo Description](#-repo-description)
-- [🍌 URL's Foundry Official Repo](#-urls-foundry-official-repo)
-- [🍌 Repo Purpose](#-repo-purpose)
-- [🍌 Repo Description](#-repo-description-1)
-- [🍌 Awesome Foundry](#-awesome-foundry)
-- [🍌 URLS](#-urls)
-- [🍌 Disclaimer](#-disclaimer)
-- [🍌 Contributions](#-contributions)
+<h1> TOC </h1>
 
-----
+1. [🍌 Repo Description](#-repo-description)
+2. [🍌 URL's Foundry Official Repo](#-urls-foundry-official-repo)
+3. [🍌 Repo Purpose](#-repo-purpose)
+4. [🍌 Repo Description](#-repo-description-1)
+5. [🍌 Awesome Foundry](#-awesome-foundry)
+6. [🍌 URLS](#-urls)
+7. [🍌 Disclaimer](#-disclaimer)
+8. [🍌 Templates](#-templates)
+9. [🍌 Contributions](#-contributions)
+
+
 # 🍌 Repo Description 
 
 Running list of resources for learning foundry 
@@ -80,6 +81,15 @@ List of my favourite learnign resources for foundry
 # 🍌 Disclaimer
 
 SINCE NONE OF THE ABOVE MENTIONED RESOURCES ARE OFFICIALLY FROM THE MAKERS OF THIS TOOL, THEY ARE SUBJECT TO ERRORS, THE VIEWER IS ADVISED TO DYOR 
+
+# 🍌 Templates 
+
+This section will have interesting templates, which have been recommended or retweeted by actual foundry developers
+
+1. [Foundry Rust monorepo template](https://github.com/gakonst/foundry-rust-template) - Foundry Official Template for quickly getting started with developing Rust applications that leverage Foundry for EVM smart contract development.
+   
+2. [FrankieIsLost -ForgeTemplate](https://github.com/FrankieIsLost/forge-template) - This template has been inspired from foundry official and several other contibutors to the official foundry repo. You can see a working example of this 
+   1. [here](https://github.com/massun-onibakuchi/the-merge-option) - Actually you can see this itself was a fork in the repo description
 
 # 🍌 Contributions
 
