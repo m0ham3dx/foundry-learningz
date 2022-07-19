@@ -89,7 +89,9 @@ This section will have interesting templates, which have been recommended or ret
 1. [Foundry Rust monorepo template](https://github.com/gakonst/foundry-rust-template) - Foundry Official Template for quickly getting started with developing Rust applications that leverage Foundry for EVM smart contract development.
    
 2. [FrankieIsLost -ForgeTemplate](https://github.com/FrankieIsLost/forge-template) - This template has been inspired from foundry official and several other contibutors to the official foundry repo. You can see a working example of this 
-   1. [here](https://github.com/massun-onibakuchi/the-merge-option) - Actually you can see this itself was a fork in the repo description
+   1. [here](https://github.com/massun-onibakuchi/the-merge-option) - Actually you can see this itself was a fork in the repo description4
+   
+3. [Paulrberg Founry Template](https://github.com/paulrberg/foundry-template) - Another fondry template but thsi is the most recent one 
 
 # 🍌 Contributions
 
