@@ -54,6 +54,9 @@ flowchart TD
 
 List of my favourite learnign resources for foundry
 
+> ⚠️ THE INFORMATION IS THIS REPO IS BEING TRANSITIONED TO A MORE DETAILED WORK 
+[HERE](https://mx-web3-learninz.pages.dev/c21), WHILE ALSO BE WHERE UPDATES WILL HAPPEN
+
 
 # 🍌 Repo Description 
 
